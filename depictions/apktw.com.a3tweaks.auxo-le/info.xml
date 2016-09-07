@@ -1,0 +1,53 @@
+<package>
+	<id>apktw.com.a3tweaks.auxo-le</id>
+	<name>Auxo Legacy Edition</name>
+  <name>（已破解DRM）</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 7.0)</package>
+    <package>mobilesubstrate</package>
+    <package>applist</package>
+    <package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A re-imagined, modern app switcher in your control center</description>
+		<description>Quick access to apps, settings, media controls and album art</description>
+    <description>Auxo Legacy Edition celebrates the original Auxo, that released over two years ago.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.a3tweaks.auxo-le_1.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.a3tweaks.auxo-le_2.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.a3tweaks.auxo-le_3.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.a3tweaks.auxo-le_4.jpg</image>
+		</screenshot>
+    <screenshot>
+			<description></description>
+			<image>apktw.com.a3tweaks.auxo-le_5.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Add Activator integration</change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>

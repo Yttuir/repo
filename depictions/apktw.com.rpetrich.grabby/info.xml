@@ -1,0 +1,48 @@
+<package>
+	<id>apktw.com.rpetrich.grabby</id>
+	<name>Grabby</name>
+  <name>（已破解DRM）</name>
+	<version>1.3.11</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+    <package>firmware (>= 5.1)</package>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>libactivator</package>
+    <package>com.a3tweaks.flipswitch</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Quick and stylish access to apps from the camera grabber—just swipe left!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>apktw.com.rpetrich.grabby_1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.com.rpetrich.grabby_2.jpg</image>
+		</screenshot>		
+    <screenshot>
+			<description></description>
+			<image>apktw.com.rpetrich.grabby_3.png</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>apktw.com.rpetrich.grabby_4.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>APK.TW 台灣中文網</name>
+			<url>http://apk.tw/</url>
+		</link>
+	</links>
+</package>
