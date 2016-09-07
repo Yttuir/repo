@@ -1,0 +1,31 @@
+<repo>
+	<footerlinks>
+    <link>
+			<name>各類問題回報專區</name>
+			<url>http://goo.gl/forms/pUIDPZYEbT</url>
+			<iconclass>glyphicon glyphicon-wrench</iconclass>
+		</link>
+    <link>
+			<name>軟體源繁化人員招募中！</name>
+			<url>http://goo.gl/forms/z0V4PsrqES</url>
+			<iconclass>glyphicon glyphicon-edit</iconclass>
+		</link>
+	</footerlinks>
+  <footerlinks>
+    <link>
+			<name>點擊加入我們的LINE群組！</name>
+			<url>http://line.me/ti/g/ZMCPwl03eu</url>
+			<iconclass>glyphicon glyphicon-qrcode</iconclass>
+		</link>
+    <link>
+			<name>PayPal捐款來維護此軟體源</name>
+			<url>http://bit.ly/APKTW_Repo_Donation</url>
+			<iconclass>glyphicon glyphicon-usd</iconclass>
+		</link>
+    <link>
+			<name>在APK.TW的FB粉絲專頁上按讚</name>
+			<url>https://www.facebook.com/wwwapktw</url>
+			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+		</link>
+  </footerlinks>
+</repo>
