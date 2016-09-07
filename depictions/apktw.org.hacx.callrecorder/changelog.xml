@@ -1,8 +1,0 @@
-<changelog>
-	<changes>
-		<version>2.07-3</version>
-		<change>Even more iOS 9 Support</change>
-    <change>Fixed - "Add Contact" in auto record settings was not working</change>
-    <change>Fixed - Settings not saved</change>
-	</changes>
-</changelog>
