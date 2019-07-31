@@ -1,17 +1,17 @@
 <package>
-	<id>com.leftyfl1p.elite</id>
-	<name>Elite</name>
+	<id>com.yud1.esunbankbypass</id>
+	<name>ESunbank Bypass</name>
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This is an updated version of Prime for iOS 8. Supports iOS7 and 8.</description>
+		<description>本插件僅支援 玉山行動銀行 4.1.0</description>
 		<!--<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
