@@ -1,9 +1,8 @@
-Origin: A_Yud1's Repo
-Label: A_Yud1's Repo
+Origin: Mrmad
+Label: Mrmad
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: This is a repository for http://repo.yud1.com/.
-MD5Sum:
+Description: Mrmad Repo

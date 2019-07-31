@@ -1,4 +1,2 @@
-*.sh
-*.command
-
-.DS_Store
+/test/*.*
+/test/repo/*

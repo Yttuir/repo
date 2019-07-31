@@ -1,12 +1,12 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>檔案截圖</title>
+  <title>Screenshots</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <link rel="shortcut icon" href="https://apktw.github.io/img/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="https://apktw.github.io/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
  
   <script type="text/javascript" src="js/jquery.querystring.js"></script>
@@ -69,7 +69,7 @@
 
 <div id="packageInformation">
 	<div class="container">
-		<h5>檔案截圖</h5>
+		<h5>SCREENSHOTS</h5>
 		<ul id="screenshotsList" class="list-group">
 		</ul>
 	</div>
@@ -77,11 +77,11 @@
 <div id="packageError" style="display:none">
 	<div class="container">
 	  <div class="alert alert-danger">
-		<strong>糟糕！</strong>您所嘗試瀏覽的檔案已不在這個軟體源上了！ 
+		<strong>Oh snap!</strong> The package you are tying to view is not hosted on this repository. 
 	  </div>
 	</div>
 </div>
-<!-- REPO FOOTER ----------------------------------------------------------- -->
+<!-- REPO FOOTER -->
 <script type="text/javascript">
     var repoContents = 	{
 		"#repoFooterLinks" : 
@@ -89,8 +89,7 @@
 				,"source":"repo>footerlinks>link"
 				,"render":function(element,source) {
 					$.each(source, function(index,data) {
-						var p = $("<li class='list-group-item'>");
-						var a = $("<a class='btn btn-link'>");
+						var a = $("<a class='link-item list-group-item'>");
 						a.attr("href",$(data).find('url').text());
 						if ($(data).find('iconclass')) {
 							var i =  $("<span>")
@@ -98,9 +97,8 @@
 							console.log(i);
 							$(a).append(i);
 						} 
-						$(a).append(' '+$(data).find('name').text());
-						$(p).append(a)
-						$(element).append(p);
+						$(a).append($(data).find('name').text());
+						$(element).append(a);
 					}); //each
 				} //render
 			}
@@ -126,12 +124,12 @@
 
 <div id="contactInfo">
 	<div class="container">
-		<h5>遇到問題？請聯絡我們</h5>
+		<h5>CONTACT</h5>
 		<ul class="list-group" id="repoFooterLinks">
 		</ul>
 	</div>
 </div>
-<!-- REPO FOOTER ENDS ------------------------------------------------------ -->
+<!-- REPO FOOTER ENDS -->
 
 </body>
 </html>
