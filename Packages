@@ -1,18 +1,16 @@
-Package: org.thebigboss.elite
-Version: 1.1-2
+Package: com.yud1.esunbankbypass
+Version: 1.0-76
 Architecture: iphoneos-arm
-Maintainer: leftyfl1p
-Installed-Size: 88
-Depends: mobilesubstrate
-Conflicts: org.thebigboss.elite
-Replaces: org.thebigboss.elite
-Filename: ./debs/org.thebigboss.elite_1.1-2_iphoneos-arm.deb
-Size: 4620
-MD5sum: 6509ee2c005dbcf5a5e80248caa9f843
-SHA1: 588fc55abd8bf659213a72c7f10b9dbcd8959a09
-SHA256: ab2d37ed5a0a219dee02e39071f0ca75755c5f5b03277afa6e4a952aa8662215
+Maintainer: Yud1 <smilelove426@gmai.com>
+Installed-Size: 72
+Depends: mobilesubstrate, applist, firmware (>= 10.0)
+Filename: ./debs/com.yud1.esunbankbypass_1.0-76_iphoneos-arm.deb
+Size: 4552
+MD5sum: 069e038cd8128f5d6e031497385ad986
+SHA1: 06756a61b963f7620a35efe2f5e08452647afe5c
+SHA256: e888eb9ceff2be1f4376a632005e40d74651773e97d00bee87f7b42daec02659
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: leftyfl1p
-Depiction: https://yud1s.github.io/repo/depictions/?p=com.leftyfl1p.elite
-Name: Elite
+Description: Bypass ESunbank Jailbreak Detection
+Author: Yud1 <smilelove426@gmai.com>
+Name: ESunbank Bypass
+
