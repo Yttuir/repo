@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Package: com.yud1.esunbankbypass
 Version: 1.0-2
 Architecture: iphoneos-arm
@@ -11,36 +10,6 @@ MD5sum: b04a3e969e0c9fa83b5e6696315a663e
 SHA1: 1219a97ba16e574cf062e382dc4c8db18db090da
 SHA256: 11c6090a3bbcd552ab089384a04dad92283c4845922e1a624f96767341e1b802
 Section: Tweaks
-Homepage: http://apk.tw/
 Description: Bypass ESunbank Jailbreak Detection
-Tag: cydia::commercial, purpose::extension, compatible::ios10, compatible::ios11
 Author: Yud1 <smilelove426@gmai.com>
-Depiction: https://apktw.github.io/depictions/?p=apktw.kr.typostudio.tsprotector8
-Dev: Yud1
-Icon: file:///Library/PreferenceBundles/tsProtectorSettings.bundle/tsProtector@2x.png
-Name: ESunbank Bypass(v4.1.0)
-Sponsor: thebigboss.org <http://thebigboss.org>
-=======
-Package: com.yud1.esunbankbypass
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: Yud1 <smilelove426@gmai.com>
-Installed-Size: 72
-Depends: mobilesubstrate, applist, firmware (>= 10.0)
-Filename: ./debs/com.yud1.esunbankbypass_1.0-1_iphoneos-arm.deb
-Size: 5958
-MD5sum: b04a3e969e0c9fa83b5e6696315a663e
-SHA1: 1219a97ba16e574cf062e382dc4c8db18db090da
-SHA256: 11c6090a3bbcd552ab089384a04dad92283c4845922e1a624f96767341e1b802
-Section: Tweaks
-Homepage: http://apk.tw/
-Description: Bypass ESunbank Jailbreak Detection
-Tag: cydia::commercial, purpose::extension, compatible::ios10, compatible::ios11
-Author: Yud1 <smilelove426@gmai.com>
-Depiction: https://apktw.github.io/depictions/?p=apktw.kr.typostudio.tsprotector8
-Dev: Yud1
-Icon: file:///Library/PreferenceBundles/tsProtectorSettings.bundle/tsProtector@2x.png
-Name: ESunbank Bypass(v4.1.0)
-Sponsor: thebigboss.org <http://thebigboss.org>
-
->>>>>>> 32c91cda87254357975694ad5698361939030216
+Name: ESunbank Bypass
