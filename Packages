@@ -10,31 +10,10 @@ MD5sum: b04a3e969e0c9fa83b5e6696315a663e
 SHA1: 1219a97ba16e574cf062e382dc4c8db18db090da
 SHA256: 11c6090a3bbcd552ab089384a04dad92283c4845922e1a624f96767341e1b802
 Section: Tweaks
+Homepage: http://apk.tw/
 Description: Bypass ESunbank Jailbreak Detection
-Author: Yud1 <smilelove426@gmai.com>
 Tag: cydia::commercial, purpose::extension, compatible::ios10
+Author: Yud1 <smilelove426@gmai.com>
+Depiction: https://apktw.github.io/depictions/?p=apktw.com.eswick.pegasus
 Dev: ESunbank Bypass
 Name: ESunbank Bypass
-Depiction: https://apktw.github.io/depictions/?p=apktw.co.pnre.aria2
-
-Package: yud1s.apktw.com.eswick.pegasus
-Version: 0.9.0-17
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 2211
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Filename: ./debs/apktw.com.eswick.pegasus_0.9.0-17_iphoneos-arm.deb
-Size: 1038964
-MD5sum: 28265e46e13a46146d986cf9dd18f5a7
-SHA1: ed941745f72ffaaaeff0ca8b2453b3e251c94f37
-SHA256: 169db00288228e4c7268db09388a8268c6d0576b509076e950426be04b23f853
-Section: Tweaks
-Homepage: http://apk.tw/
-Description: Enables Picture-in-Picture on unsupported devices
-Tag: cydia::commercial, purpose::extension, compatible::ios9
-Author: Evan Swick <eswick@eswick.com>
-Depiction: https://apktw.github.io/depictions/?p=apktw.com.eswick.pegasus
-Dev: pegasus
-Name: Pegasus
-Sponsor: thebigboss.org <http://thebigboss.org>
-
