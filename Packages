@@ -4,6 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Yud1 <smilelove426@gmai.com>
 Installed-Size: 72
 Depends: mobilesubstrate, applist, firmware (>= 10.0)
+Conflicts: com.yud1.esunbankbypass
 Filename: ./debs/com.yud1.esunbankbypass_1.0-1_iphoneos-arm.deb
 Size: 5958
 MD5sum: b04a3e969e0c9fa83b5e6696315a663e
@@ -12,5 +13,6 @@ SHA256: 11c6090a3bbcd552ab089384a04dad92283c4845922e1a624f96767341e1b802
 Section: Tweaks
 Description: Bypass ESunbank Jailbreak Detection
 Author: Yud1 <smilelove426@gmai.com>
+Depiction: https://repo.yud1.com/depictions/?p=acom.yud1.esunbankbypass
 Name: ESunbank Bypass2
 
