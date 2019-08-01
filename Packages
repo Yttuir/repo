@@ -13,6 +13,6 @@ SHA256: 11c6090a3bbcd552ab089384a04dad92283c4845922e1a624f96767341e1b802
 Section: Tweaks
 Description: Bypass ESunbank Jailbreak Detection
 Author: Yud1 <smilelove426@gmai.com>
-Depiction: https://repo.yud1.com/depictions/?p=acom.yud1.esunbankbypass
-Name: ESunbank Bypass2
+Depiction: https://repo.yud1.com/depictions/?p=com.yud1.esunbankbypass
+Name: ESunbank Bypass
 
