@@ -1,4 +1,4 @@
-Package: com.yud1.esunbankbypass
+Package: com.yud1.esunbankbypass1
 Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: Yud1 <smilelove426@gmai.com>
@@ -12,5 +12,5 @@ SHA256: 11c6090a3bbcd552ab089384a04dad92283c4845922e1a624f96767341e1b802
 Section: Tweaks
 Description: Bypass ESunbank Jailbreak Detection
 Author: Yud1 <smilelove426@gmai.com>
-Name: ESunbank Bypass
+Name: ESunbank Bypass2
 
