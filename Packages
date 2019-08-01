@@ -1,11 +1,11 @@
-Package: apktw.co.pnre.aria2
-Version: 1.0.4-1
+Package: com.yud1.esunbankbypass
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1112
-Depends: mobilesubstrate, preferenceloader, firmware (>= 8.4), org.thebigboss.libcolorpicker
+Depends: mobilesubstrate, applist, firmware (>= 10.0)
 Conflicts: org.thebigboss.aria
-Filename: ./debs/apktw.co.pnre.aria2_1.0.4-1_iphoneos-arm.deb
+Filename: ./debs/com.yud1.esunbankbypass_1.0-1_iphoneos-arm.deb
 Size: 416140
 MD5sum: 865c0f9584e3065a918d50edc5901655
 SHA1: d495bae8c537a1c388575233fa0745f0b10b9c60
@@ -15,7 +15,7 @@ Homepage: http://apk.tw/
 Description: Music app the way it should have been
 Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
 Author: pNre <aria@pnre.co>
-Depiction: https://apktw.github.io/depictions/?p=apktw.co.pnre.aria2
+Depiction: https://repo.yud1.com/depictions/?p=com.yud1.esunbankbypass
 Dev: corelab
 Icon: file:///Library/PreferenceBundles/Aria2Preferences.bundle/Aria2@2x.png
 Name: Aria 2 (iOS 8.4+)
