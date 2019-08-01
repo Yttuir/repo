@@ -12,9 +12,10 @@ SHA256: 11c6090a3bbcd552ab089384a04dad92283c4845922e1a624f96767341e1b802
 Section: Tweaks
 Description: Bypass ESunbank Jailbreak Detection
 Author: Yud1 <smilelove426@gmai.com>
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Dev: ESunbank Bypass
 Name: ESunbank Bypass
 Depiction: https://apktw.github.io/depictions/?p=apktw.co.pnre.aria2
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: yud1s.apktw.com.eswick.pegasus
 Version: 0.9.0-17
